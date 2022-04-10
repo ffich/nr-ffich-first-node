@@ -17,7 +17,7 @@
     "url": "git+https://github.com/ffich/nr-ffich-first-node.git"
   },
   "keywords": [
-    "ffich"
+    "node-red"
   ],
   "node-red" : {
 	 "nodes": {

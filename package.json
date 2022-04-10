@@ -2,7 +2,7 @@
   "dependencies": {
     "node-red-debugger": "^1.1.1"
   },
-  "name": "ffich-test-node",
+  "name": "ffich-test-node_01",
   "version": "0.0.1",
   "description": "Test node",
   "main": "test.js",

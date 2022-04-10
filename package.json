@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "node-red-debugger": "^1.1.1"
+  },
+  "name": "ffich-test-node",
+  "version": "0.0.1",
+  "description": "Test node",
+  "main": "test.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "francesco ficili",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffich/nr-ffich-first-node.git"
+  },
+  "keywords": [
+    "ffich"
+  ],
+  "node-red" : {
+	 "nodes": {
+		"test": "test.js"
+	 }
+  },  
+  "bugs": {
+    "url": "https://github.com/ffich/nr-ffich-first-node/issues"
+  },
+  "homepage": "https://github.com/ffich/nr-ffich-first-node#readme"
+}
